@@ -1,4 +1,4 @@
-{
+
 {
 	"admin_server": {
 		"listen_url": "0.0.0.0:3333",
